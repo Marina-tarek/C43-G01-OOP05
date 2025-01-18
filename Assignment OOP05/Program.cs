@@ -18,9 +18,7 @@ namespace Assignment_OOP05
             rectangle.DisplayShapeInfo();
             #endregion
 
-            #region Question 02:
-
-            #region 1-We start by defining the IAuthenticationService interface with two methods: AuthenticateUser and AuthorizeUser.
+            #region Question 02: 1-We start by defining the IAuthenticationService interface with two methods: AuthenticateUser and AuthorizeUser.
             //The BasicAuthenticationService class implements this interface and provides the specific implementation for these methods
 
 
@@ -30,9 +28,9 @@ namespace Assignment_OOP05
 
 
 
-            #endregion
 
-            #region
+
+            #region Question 03:
 
             #endregion
 
